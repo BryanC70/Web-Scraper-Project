@@ -4,4 +4,4 @@ This is done by creating a get request using the websites url, and using the bea
 contents of an article. 
 # Tools used
 * Requests library
-* beautiful soup
+* beautiful soup library
